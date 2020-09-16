@@ -1,3 +1,0 @@
-C:/projects/os/week5/cmake-build-debug/CMakeFiles/ex4.dir
-C:/projects/os/week5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/projects/os/week5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
