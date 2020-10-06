@@ -1,0 +1,7 @@
+16 bit virtual address
+8KB pages
+
+Offset:
+    8KB = 8192 bit = 2^13 => Offset = 13 bit
+Pages:
+    16 - 13 = 3 bit => Pages = 2^3 = 8

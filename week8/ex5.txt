@@ -1,0 +1,5 @@
+Physical address:
+      Located in real memory. Is not accessible from user space. Usually accessed through MMU. It is limited.
+Virtual address:
+      Mapped to the Physical address through MMU. Not located in real memory. Accessible from user space.
+      Can be bigger than real available memory.
