@@ -1,0 +1,19 @@
+-rw-rw-rw- 1 root root 0 Oct 20 12:49 _ex3.txt
+-rw-rw-rw- 1 root root 0 Oct 20 12:49 _ex3.txt
+-rwxrw-rwx 1 root root 0 Oct 20 12:49 _ex3.txt
+-rwxrwxrwx 1 root root 0 Oct 20 12:49 _ex3.txt
+
+660:
+ u	g	o
+110	110	000
+rw	rw	
+
+775:
+ u	g	o
+111	111	101
+rwx	rwx	rx
+
+777:
+ u	g	o
+111	111	111
+rwx	rwx	rwx
