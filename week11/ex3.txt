@@ -1,0 +1,2 @@
+The first program outputs "Hello\nHello\n" because fork copies linear buffer("Hello") to each subprocess and prints "\n" after that buffer is "Hello\n" and it pushes string to stdout.
+The second program outputs "Hell\n\n\n" because after fork buffer is empty, so each subprocess just outputs "\n".
