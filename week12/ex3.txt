@@ -1,0 +1,18 @@
+buffer - 128 No Sync
+real    0m0.006s
+user    0m0.002s
+sys     0m0.000s
+buffer - 128 Sync
+real    0m0.006s
+user    0m0.001s
+sys     0m0.000s
+buffer - 256 No Sync
+real    0m0.006s
+user    0m0.001s
+sys     0m0.000s
+buffer - 256 Sync
+real    0m0.006s
+user    0m0.000s
+sys     0m0.001s
+Basically, larger buffer we have, faster transfer we get. Difference is tiny since 
+the file size ~ 30 KB. Sync makes transfer slower because of waiting of completeness.
