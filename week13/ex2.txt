@@ -1,0 +1,11 @@
+Recovery
+We can try to take away a preemptive resources causing the deadlcok, 
+we can also use rollback, which means creating snapshots during runtime to return to them.
+It also can kill process.
+
+Prevention
+Exclude at least 1 conndition of deadlcok.
+
+Avoidance
+Best way of dealing with deadlocks since doesn't requare to limit resources.
+Schheduling algorithm required. Works only if we can say is resource safe or not.
